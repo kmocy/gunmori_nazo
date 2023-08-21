@@ -225,8 +225,13 @@ section {
 }
 #information h3{
     display: block;
-    margin:20rem auto 20rem 10vw;
+    margin:20rem auto 10rem 10vw;
     font-size: 25rem;
+}
+#information p{
+    display: block;
+    margin:0rem auto 20rem 10vw;
+    font-size: 15rem;
 }
 #apply{
     text-align: center;
@@ -469,7 +474,13 @@ footer a{
         width:90%;
     }
     #information h3{
-        font-size: 40rem;
+        font-size: 45rem;
+        margin-top:30rem;
+        margin-bottom:30rem;
+    }
+    #information p{
+        margin-top:-20rem;
+        font-size: 15rem;
     }
     #apply h2{
         display: block;
