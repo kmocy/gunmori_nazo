@@ -254,6 +254,9 @@ section {
     margin: auto;
     border: none;
 }
+#require button img{
+    width:200rem
+}
 footer{
     background-color: #000;
     position: relative;
