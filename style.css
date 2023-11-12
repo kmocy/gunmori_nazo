@@ -244,7 +244,8 @@ section {
     padding: 15rem;
     margin: auto;
     width: 250rem;
-    background-color: #004b25;
+    /* background-color: #004b25; */
+    background-color: #da0000;
     color: #fff;
     border-radius: 200rem;
     font-size: 25rem;
